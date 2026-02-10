@@ -2,7 +2,8 @@
 
 ### Atividade sobre IMC 🏋️
 
-```
+```Kotlin
+
 fun main(){
     
     val peso = readln().toDouble()
@@ -29,7 +30,8 @@ fun main(){
 
 #### Questao A ⏹️:
 
-```
+```Kotlin
+
 fun main(){
     
     val comprimento = readln().toDouble()
@@ -43,7 +45,8 @@ fun main(){
 
 #### Questão B 👌:
 
-```
+```Kotlin
+
 fun main(){
     
     val comprimento = readln().toDouble()
@@ -69,7 +72,8 @@ fun main(){
 
 #### Questão C 👷‍♂️:
 
-```
+```Kotlin
+
 fun main(){
     
     val comprimento = readln().toDouble()
@@ -93,7 +97,8 @@ fun main(){
 
 #### Questão D ➕:
 
-```
+```Kotlin
+
 fun main(){
    
     val comprimento = readln().toDouble()
@@ -122,7 +127,9 @@ fun main(){
 
 
 #### Questão E 🤓:
-```
+
+```Kotlin
+
 fun main(){
     
     val comprimento = readln().toDouble()
